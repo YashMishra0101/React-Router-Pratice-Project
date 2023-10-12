@@ -1,8 +1,15 @@
-# React + Vite
+# React Router Practice Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple practice project that demonstrates the usage of React Router in a web application. It has been developed using React, HTML, and Tailwind CSS to showcase the routing capabilities of React.
 
-Currently, two official plugins are available:
+<img src="src\assets\Screenshot (24).png">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="src\assets\Screenshot (25).png">
+
+<img src="src\assets\Screenshot (26).png">
+
+
+The main objective of this project is to familiarize with React Router, a popular routing library for React applications.
+
+
+
